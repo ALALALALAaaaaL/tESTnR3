@@ -7,6 +7,7 @@ data = pd.read_csv('mnist_train.csv')
 
 
 # DUPPPPPA
+# o
 
 data = np.array(data)
 m, n = data.shape
